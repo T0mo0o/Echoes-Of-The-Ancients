@@ -18,6 +18,11 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "RefreshRateControl",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9233426a975b40dca563e77e69dc31ae"
 		}
 	]
 }
