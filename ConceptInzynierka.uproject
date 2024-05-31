@@ -23,6 +23,15 @@
 			"Name": "RefreshRateControl",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9233426a975b40dca563e77e69dc31ae"
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "MonitorSwitcher",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/205b355189cf4fa6b90e15b0e3ef8375"
 		}
 	]
 }
